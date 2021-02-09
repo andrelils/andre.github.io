@@ -29,7 +29,7 @@ module.exports = {
           { text: 'Github', link: 'https://github.com/alone-m/andre.github.io', ariaLabel: 'Github' }
         ],
         sidebar: {
-          '/': ["/", "/study",],
+          '/': ["/", "/study", "/prototype"],
         }
       },
     }

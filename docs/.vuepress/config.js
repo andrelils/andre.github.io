@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Andre个人博客',
+  title: 'Andre‘s Bolg',
   description: "Andre's blog",
   head: [
     ['link', { rel: 'icon', href: 'img/logo.png' }]
